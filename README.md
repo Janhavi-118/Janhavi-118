@@ -1,7 +1,7 @@
 # Hi, I'm Janhavi Chaurasia
 
 **Computer Science and Robotics Enthusiast**  
-Researching the intersection of neuros-inspired learning and swarm robotics for real-world impact.
+Researching the intersection of neuro-inspired learning and swarm robotics for real-world impact.
 
 ---
 
