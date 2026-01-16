@@ -15,7 +15,7 @@ As a computer science student, my passion lies in bridging neuroscience, biologi
 
 ## Connect with me
 
-[LinkedIn](https://linkedin.com/in/janhavi-chaurasia) | [GitHub](https://github.com/Janhavi-118)
+[LinkedIn](www.linkedin.com/in/janhavi-chaurasia-ab9169278) | [GitHub](https://github.com/Janhavi-118)
 
 ---
 
